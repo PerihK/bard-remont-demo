@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.vercel/
+research/
+*.local
+*.log
+scripts/github.mjs
