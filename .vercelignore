@@ -1,0 +1,6 @@
+research/
+scripts/
+docs/
+node_modules/
+dist/
+.git/

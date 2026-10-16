@@ -5,3 +5,5 @@ research/
 *.local
 *.log
 scripts/github.mjs
+
+.vercel
